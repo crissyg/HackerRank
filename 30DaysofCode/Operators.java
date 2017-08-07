@@ -8,7 +8,6 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-
 public class Arithmetic {
 
     public static void main(String[] args) {
