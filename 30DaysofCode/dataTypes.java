@@ -1,6 +1,7 @@
 // Day 1: Data Types
 // Submitted by: Christina Gordon
 // https://www.hackerrank.com/challenges/30-data-types/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
