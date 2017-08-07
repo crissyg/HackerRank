@@ -1,6 +1,11 @@
 // Day 0: Hello, World.
 // Submitted by: Christina Gordon
 // https://www.hackerrank.com/challenges/30-hello-world/problem
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
 public class Solution {
 	public static void main(String[] args) {
