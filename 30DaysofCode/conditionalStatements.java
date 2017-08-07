@@ -2,7 +2,6 @@
 // Submitted by: Christina Gordon
 // https://www.hackerrank.com/challenges/30-conditional-statements/problem
 
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
