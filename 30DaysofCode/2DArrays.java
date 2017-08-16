@@ -1,6 +1,6 @@
 // Day 11: 2D Arrays
 // Submitted by: Christina Gordon
-// https://www.hackerrank.com/challenges/30-2d-arrays/submissions/code/50160508
+// https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
 
 import java.io.*;
