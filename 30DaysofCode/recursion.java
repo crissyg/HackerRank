@@ -9,7 +9,6 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
     static int factorial(int n) {
         // Complete this function
           if (n <=1){
@@ -19,6 +18,7 @@ public class Solution {
           }
     }
 
+    // MAIN
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int n = in.nextInt();
