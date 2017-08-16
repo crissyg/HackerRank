@@ -1,6 +1,6 @@
 // Day 9: Recursion
 // Submitted by: Christina Gordon
-// https://www.hackerrank.com/challenges/30-recursion/submissions/code/49835759
+// https://www.hackerrank.com/challenges/30-recursion/problem
 
 import java.io.*;
 import java.util.*;

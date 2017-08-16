@@ -1,6 +1,6 @@
 // Day 10: Binary Numbers
 // Submitted by: Christina Gordon
-// https://www.hackerrank.com/challenges/30-binary-numbers/tutorial
+// https://www.hackerrank.com/challenges/30-binary-numbers/problem
 // java 8
 
 
