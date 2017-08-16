@@ -2,7 +2,6 @@
 // Submitted by: Christina Gordon
 // https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -10,7 +9,6 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int arr[][] = new int[6][6];
